@@ -179,3 +179,5 @@ Python の interface.py
 ```
 
 つまり，GitHub 上のリポジトリをもとに Codespaces を作り，その中で Docker による開発環境を使い，さらにその中でローカルLLMである Bonsai を動かしています。
+
+Bonsaiチャットシステムを使ってみよう。
